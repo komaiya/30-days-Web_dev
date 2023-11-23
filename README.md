@@ -69,3 +69,5 @@ Day 30: Image Search Engine.
 
 Explore each day's folder for detailed project files, including HTML, CSS, and JavaScript. Use these projects to enhance your skills, experiment, and have fun building diverse web applications.
 Happy coding! 🌐✨
+
+Note: Most of these Websites are static.
