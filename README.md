@@ -1,6 +1,9 @@
 30 Days of Web Development Challenge
+
 Welcome to the 30 Days of Web Development Challenge! 🚀
+
 In this repository, you'll find a collection of websites created over 30 days, each utilizing HTML, CSS, and JavaScript. These projects are designed to enhance your web development skills and provide hands-on experience in building diverse web applications.
+
 Project List
 Day 1: Weather App.
 Day 2: To-do list.
